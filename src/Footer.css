@@ -1,0 +1,18 @@
+/* Sticky Footer Classes */
+
+
+
+#page-content {
+    flex: 1 0 auto;
+}
+
+#sticky-footer {
+    position:relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: #FFFFFF;
+    background-color: #343a40;
+    box-sizing: border-box;
+    text-align: center;
+}
